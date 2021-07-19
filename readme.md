@@ -13,6 +13,7 @@ My name is crin :D <br/>
 - Html
 - Python
 - Css
+- C#
 - Dabbled in Js and Markdown
 
 ## Contact me
