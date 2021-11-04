@@ -2,7 +2,7 @@
 
 My name is crin :D <br/>
 - any pronouns
-- Pan
+- nb/genderfluid pan person
 - Newbie  developer(dont know what the fuck im doing)
 
 ## friends
