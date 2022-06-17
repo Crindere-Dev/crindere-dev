@@ -1,8 +1,8 @@
 # Hey :)
 
 My name is crin :D <br/>
-- any pronouns
-- nb/genderfluid pan person
+- fae/ae/they/it
+- nb pan person
 - Newbie  developer(dont know what the fuck im doing)
 
 ## friends
