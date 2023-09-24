@@ -18,7 +18,7 @@ My name is crin :D <br/>
 
 ## Want to learn
 - Lua
--Gdscript
+- Gdscript
 
 ## Contact me
 
