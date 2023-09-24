@@ -1,10 +1,9 @@
 # Hey :)
 
 My name is crin :D <br/>
-- fae/ae/they/it
-- nb pan person
-- Newbie  developer(dont know what the fuck im doing)
-
+- they/it 
+- tmasc nb boygirl 
+- I'm a game artist ^^
 ## friends
 [ALice](https://github.com/transGirl-alice)</br>
 [Grape](https://github.com/nylecohen)
@@ -14,9 +13,14 @@ My name is crin :D <br/>
 - Python
 - Css
 - C#
-- Dabbled in Js and Markdown
+-Markdown
+- Dabbled in Js
+
+## Want to learn
+- Lua
+-Gdscript
 
 ## Contact me
 
- - •Crin•#0365 (discord)
+ - crin_cron (discord)
  - [other](https://linktr.ee/crin_)
