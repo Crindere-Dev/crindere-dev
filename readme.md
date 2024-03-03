@@ -1,7 +1,7 @@
 # Hey :)
 
 My name is crin :D <br/>
-- they/it 
+- they/he/it 
 - tmasc nb boygirl 
 - I'm a game artist ^^
 ## friends
