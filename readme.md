@@ -1,6 +1,6 @@
 # Hey :)
 
-My name is crin :D <br/>
+My name is Crinley :D <br/>
 - they/he/it 
 - tmasc nb boygirl 
 - I'm a game artist ^^
